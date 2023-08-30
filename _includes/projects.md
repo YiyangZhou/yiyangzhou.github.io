@@ -151,5 +151,51 @@ Multi-view Clustering</a></div>
   
 <br>
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/ral.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ral</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2305.09132.pdf" target="_blank">DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion</a></div>
+    <div class="author">Pengcheng Shi, Haozhe Cheng, Xu Han, <strong>Yiyang Zhou</strong>, Jihua Zhu</div>
+    <div class="periodical"><em>IEEE Robotics and Automation Letters, May. 2023.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2305.09132" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://arxiv.org/pdf/2305.09132.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+<!--       <a href="https://huggingface.co/spaces/MAGAer13/mPLUG-Owl" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Hugging Face</a> -->
+      <a href="https://github.com/spc121/DualGenerator" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<br>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/aaai1.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2308.09894.pdf" target="_blank">Semantic-Human: Neural Rendering of Humans from Monocular Video with Human Parsing</a></div>
+    <div class="author">Jie Zhang, Pengcheng Shi, Zaiwang Gu, <strong>Yiyang Zhou</strong>, Zhi Wang</div>
+    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Aug. 2023.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2308.09894" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://arxiv.org/pdf/2308.09894.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+<!--       <a href="https://huggingface.co/spaces/MAGAer13/mPLUG-Owl" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Hugging Face</a> -->
+      <a href="https://github.com/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+    </div>
+  </div>
+</div>
+</li>
+
 </ol>
 </div>
