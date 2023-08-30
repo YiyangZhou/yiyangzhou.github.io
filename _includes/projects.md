@@ -22,7 +22,7 @@
       <a href="https://github.com/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
 <!--       <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> -->
 <!--       <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
-      <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
+<!--       <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
     </div>
   </div>
 </div>
@@ -43,9 +43,9 @@
     <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Apr. 2023.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2304.14178" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://arxiv.org/pdf/2304.14178.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://huggingface.co/spaces/MAGAer13/mPLUG-Owl" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Hugging Face</a>
       <a href="https://github.com/X-PLUG/mPLUG-Owl" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Contact</a>
     </div>
   </div>
 </div>
