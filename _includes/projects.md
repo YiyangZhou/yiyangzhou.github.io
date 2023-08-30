@@ -14,7 +14,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2308.15126.pdf">Evaluation and Analysis of Hallucination in Large Vision-Language Models</a></div>
-    <div class="author"><strong>Junyang Wang<sup>*</sup>, Yiyang Zhou<sup>*</sup>, Guohai Xu, Pengcheng Shi, Chenlin Zhao, Haiyang Xu, Qinghao Ye, Ming Yan, Ji Zhang, Jihua Zhu, Jitao Sang, Haoyu Tang</strong></div>
+    <div class="author"><strong>Junyang Wang<sup>*</sup>, <strong>Yiyang Zhou</strong><sup>*</sup>, Guohai Xu, Pengcheng Shi, Chenlin Zhao, Haiyang Xu, Qinghao Ye, Ming Yan, Ji Zhang, Jihua Zhu, Jitao Sang, Haoyu Tang</strong></div>
     <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Aug. 2023.</em></div>
     <div class="links">
     <a href="https://arxiv.org/abs/2308.15126" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
