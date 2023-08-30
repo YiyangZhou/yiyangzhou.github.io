@@ -78,5 +78,29 @@ Learning</a></div>
   
 <br>
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/ijcai.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ijcai</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2305.09500.pdf" target="_blank">Contrastive Label Enhancement</a></div>
+    <div class="author">Yifei Wang , <strong>Yiyang Zhou</strong>strong>, Jihua Zhu, Xinyuan Liu , Wenbiao Yan, Zhiqiang Tian</div>
+    <div class="periodical"><em>International Joint Conferences on Artificial Intelligence (IJCAI) 2023, May. 2023.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2305.09500" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://arxiv.org/pdf/2305.09500.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+<!--       <a href="https://huggingface.co/spaces/MAGAer13/mPLUG-Owl" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Hugging Face</a> -->
+      <a href="https://github.com/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+    </div>
+  </div>
+</div>
+</li>
+  
+<br>
+
 </ol>
 </div>
