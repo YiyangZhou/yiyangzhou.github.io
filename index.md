@@ -13,9 +13,7 @@ I am currently working as a multimodal researcher at <a href="https://damo.aliba
 
 ## Research Interests
 - **Text/Multimodal Generation Task:** reliable and trustworthy large-scale language/vision-language models (LLMs, LVLMs, etc.)
-- **Multi-source Structured Information Extraction and Understanding:** fairness AI, penalization and augmentation methods
-- **Functional Data Analysis:** functional regression, and clustering methods
-- **High-Dimensional Statistics:** matrix-valued regression and clustering, positive semi-definite matrices estimations
+- **Multi-source Structured Information Extraction and Understanding:**  enable them to be enhanced and interact with the real world based on the diverse information from the real world
 
 
 <!-- {% include_relative _includes/publications.md %} -->
