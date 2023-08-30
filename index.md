@@ -14,6 +14,7 @@ I am currently working as a multimodal researcher at <a href="https://damo.aliba
 ## Research Interests
 - **Text/Multimodal Generation Task:** reliable and trustworthy large-scale language/vision-language models (LLMs, LVLMs, etc.)
 - **Multi-source Structured Information Extraction and Understanding:**  enable them to be enhanced and interact with the real world based on the diverse information from the real world
+- **General Artificial Intelligence:** diverse inputs and outputs (images, text, 3D points, videos, etc.)
 
 
 <!-- {% include_relative _includes/publications.md %} -->
