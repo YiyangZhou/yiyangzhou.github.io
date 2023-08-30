@@ -14,7 +14,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2308.15126.pdf">Evaluation and Analysis of Hallucination in Large Vision-Language Models</a></div>
-    <div class="author"><strong>Junyang Wang<sup>*</sup>, <strong>Yiyang Zhou</strong><sup>*</sup>, Guohai Xu, Pengcheng Shi, Chenlin Zhao, Haiyang Xu, Qinghao Ye, Ming Yan, Ji Zhang, Jihua Zhu, Jitao Sang, Haoyu Tang</strong></div>
+    <div class="author">Junyang Wang<sup>*</sup>, <strong>Yiyang Zhou</strong><sup>*</sup>, Guohai Xu, Pengcheng Shi, Chenlin Zhao, Haiyang Xu, Qinghao Ye, Ming Yan, Ji Zhang, Jihua Zhu, Jitao Sang, Haoyu Tang</div>
     <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Aug. 2023.</em></div>
     <div class="links">
     <a href="https://arxiv.org/abs/2308.15126" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
@@ -33,18 +33,18 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/OCS.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">AHI</abbr>
+    <img src="assets/img/owl.gif" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Open Case Studies</a></div>
-    <div class="author">Stephanie Hicks, Leah Jager, Margaret Taub, Carrie Wright, John Muschelli, Lyla Atta, Michael Breshock, Qier Meng, Alexandra Stephens, <strong>Hanchao Zhang</strong>, and etc. </div>
-    <div class="periodical"><em>the Johns Hopkins University, and Bloomberg American Health Initiative.</em></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2304.14178.pdf" target="_blank">mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality</a></div>
+    <div class="author">Qinghao Ye<sup>*</sup>, Haiyang Xu<sup>*</sup>, Guohai Xu<sup>*</sup>, Jiabo Ye, Ming Yan, <strong>Yiyang Zhou</strong>, Junyang Wang, Anwen Hu, Pengcheng Shi, Yaya Shi, Chenliang Li, Yuanhong Xu, Hehong Chen, Junfeng Tian, Qian Qi, Ji Zhang, Fei Huang</div>
+    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Apr. 2023.</em></div>
     <div class="links">
-      <a href="https://americanhealth.jhu.edu/open-case-studies" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://github.com/orgs/opencasestudies/teams/jhu-research-assistants" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="https://arxiv.org/abs/2304.14178" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://huggingface.co/spaces/MAGAer13/mPLUG-Owl" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Hugging Face</a>
+      <a href="https://github.com/X-PLUG/mPLUG-Owl" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
       <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Contact</a>
     </div>
   </div>
