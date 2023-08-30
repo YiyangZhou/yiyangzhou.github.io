@@ -12,8 +12,8 @@ I am currently working as a multimodal researcher at <a href="https://damo.aliba
 
 
 ## Research Interests
-- **Manifold Learning:** positive semi-definite manifolds learning
-- **Machine Learning:** fairness AI, penalization and augmentation methods
+- **Text/Multimodal Generation Task:** reliable and trustworthy large-scale language/vision-language models (LLMs, LVLMs, etc.)
+- **Multi-source Structured Information Extraction and Understanding:** fairness AI, penalization and augmentation methods
 - **Functional Data Analysis:** functional regression, and clustering methods
 - **High-Dimensional Statistics:** matrix-valued regression and clustering, positive semi-definite matrices estimations
 
