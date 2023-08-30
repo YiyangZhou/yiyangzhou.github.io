@@ -20,7 +20,6 @@ I am currently working as a multimodal researcher at <a href="https://damo.aliba
 
 {% include_relative _includes/projects.md %}
 
-{% include_relative _includes/talks.md %}
 
 
 
