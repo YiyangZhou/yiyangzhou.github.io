@@ -38,7 +38,12 @@ I am currently working as a multimodal researcher at <a href="https://damo.aliba
 - **[Jan. 2021]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jocd.13486" target="_blank">*Quantitative evaluation of rejuvenation treatment of nasolabial fold wrinkles by regression model and 3D photography*</a> has been accepted by the **Journal of Cosmetic Dermatology**.
 
 ## Awards
-- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a>
+- **[Second Prize.2022]** Xi’an Jiaotong University Postgraduate Academic Scholarship
+- **[First Prize.2019]** Jilin University Outstanding student of the School of Software
+- **[First Prize.2019]** Jilin Province Mathematical Modeling Competition for College Students
+- **[Second Prize.2019]** Scholarship of the School of Software
+- **[Third Prize.2019]** Jilin University ”Internet+” Student Innovation and Entrepreneurship Competition
+
 
 
 {% include_relative _includes/services.md %}
