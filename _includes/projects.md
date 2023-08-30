@@ -102,5 +102,30 @@ Learning</a></div>
   
 <br>
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/eswa.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">eswa</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2302.13339.pdf" target="_blank">MCoCo: Multi-level Consistency Collaborative
+Multi-view Clustering</a></div>
+    <div class="author"><strong>Yiyang Zhou</strong>, Qinghai Zheng, Wenbiao Yan, Yifei Wang, Pengcheng Shi, Jihua Zhu</div>
+    <div class="periodical"><em>Expert Systems with Applications, Feb. 2023.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2302.13339" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://arxiv.org/pdf/2302.13339.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+<!--       <a href="https://huggingface.co/spaces/MAGAer13/mPLUG-Owl" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Hugging Face</a> -->
+      <a href="https://github.com/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+    </div>
+  </div>
+</div>
+</li>
+  
+<br>
+
 </ol>
 </div>
