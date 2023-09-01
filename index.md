@@ -51,4 +51,4 @@ Currently, I am working as a multimodal researcher at <a href="https://damo.alib
 
 {% include_relative _includes/services.md %}
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YNvCKtA5GfPs5H6zx8P-g78lz50AlrmzY1SJtdhwIt4&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=YNvCKtA5GfPs5H6zx8P-g78lz50AlrmzY1SJtdhwIt4'></script>
