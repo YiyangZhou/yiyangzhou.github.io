@@ -49,4 +49,4 @@ I am currently working as a multimodal researcher at <a href="https://damo.aliba
 
 {% include_relative _includes/services.md %}
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YNvCKtA5GfPs5H6zx8P-g78lz50AlrmzY1SJtdhwIt4&cl=ffffff&w=150px"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YNvCKtA5GfPs5H6zx8P-g78lz50AlrmzY1SJtdhwIt4&cl=ffffff"width="100" height="100"></script>
