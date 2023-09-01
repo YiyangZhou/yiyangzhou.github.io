@@ -30,13 +30,15 @@ Currently, I am working as a multimodal researcher at <a href="https://damo.alib
 
 ## Experiences
 
-<!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019. -->
-<!-- - **[Feb. 2023]** <a href="https://www.sciencedirect.com/science/article/pii/S089990072200346X" target="_blank">*Low muscle mass is associated with a higher risk of all–cause and cardiovascular disease–specific mortality in cancer survivors*</a> has been accepted by **Nutrition**. 
-- **[Aug. 2021]** <a href="https://www.jmcp.org/doi/full/10.18553/jmcp.2021.27.10.1482" target="_blank">*Validation of EHR medication fill data obtained through electronic linkage with pharmacies*</a> has been accepted by the **Journal of Managed Care & Specialty Pharmacy**.
-- **[Jan. 2021]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jocd.13486" target="_blank">*Quantitative evaluation of rejuvenation treatment of nasolabial fold wrinkles by regression model and 3D photography*</a> has been accepted by the **Journal of Cosmetic Dermatology**. -->
-还没写完，cv没改，没空
+-  **[Jan. 2019 -- Oct. 2022]**  It may sound a bit incredible, but I have indeed been investing during this period, and the entire process has been quite magical.
+
+-  **[Oct. 2022 -- Jan. 2023]**  The beginning of my research journey!
+
+-  **[Mar. 2023 -- now]**  I am working as a multimodal researcher at <a href="https://damo.alibaba.com/?lang=zh" target="_blank">Alibaba DAMO Academy</a>.
+
+-  **[Apr. 2023 -- now]**  Studying and researching multimodal with Prof. <a href="https://scholar.google.com.hk/citations?user=voxznZAAAAAJ&hl=zh-CN&oi=ao"  target="_blank">Xiaodan Liang</a>.
+
+-  **[May. 2023 -- now]**  I'm an intern of  Prof. <a href="https://scholar.google.com.hk/citations?user=A20BZnQAAAAJ&hl=zh-CN&oi=ao" target="_blank"> Huaxiu Yao</a> from <a href="https://www.unc.edu/"  target="_blank">UNC</a>.
 
 ## Awards
 - **[Second Prize.2022]** Xi’an Jiaotong University Postgraduate Academic Scholarship
