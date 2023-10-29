@@ -35,9 +35,9 @@ Currently, I am working as a multimodal researcher at <a href="https://damo.alib
 
 -  **[Oct. 2022 -- Jan. 2023]**  The beginning of my research journey!
 
--  **[Mar. 2023 -- now]**  I am working as a multimodal researcher at <a href="https://damo.alibaba.com/?lang=zh" target="_blank">Alibaba DAMO Academy</a>.
+-  **[Mar. 2023 -- Sep. 2023]**  I am working as a multimodal researcher at <a href="https://damo.alibaba.com/?lang=zh" target="_blank">Alibaba DAMO Academy</a>.
 
--  **[Apr. 2023 -- now]**  Studying and researching multimodal with Prof. <a href="https://scholar.google.com.hk/citations?user=voxznZAAAAAJ&hl=zh-CN&oi=ao"  target="_blank">Xiaodan Liang</a>.
+-  **[Apr. 2023 -- Sep. 2023]**  Studying and researching multimodal with Prof. <a href="https://scholar.google.com.hk/citations?user=voxznZAAAAAJ&hl=zh-CN&oi=ao"  target="_blank">Xiaodan Liang</a>.
 
 -  **[May. 2023 -- now]**  I'm an intern of  Prof. <a href="https://scholar.google.com.hk/citations?user=A20BZnQAAAAJ&hl=zh-CN&oi=ao" target="_blank"> Huaxiu Yao</a> from <a href="https://www.unc.edu/"  target="_blank">UNC</a>.
 
