@@ -8,6 +8,30 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/Bingo.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2311.03287.pdf">Holistic Analysis of Hallucination in GPT-4V(ision): Bias and Interference Challenges</a></div>
+    <div class="author">Chenhang Cui<sup>*</sup>, <strong>Yiyang Zhou</strong><sup>*</sup>, Xinyu Yang, Shirley Wu, Linjun Zhang, James Zou, Huaxiu Yao</div>
+    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Nov. 2023.</em></div>
+    <div class="links">
+    <a href="https://arxiv.org/abs/2311.03287" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://arxiv.org/pdf/2311.03287.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/gzcch/Bingo" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+<!--       <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> -->
+<!--       <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
+<!--       <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/LURE.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv</abbr>
   </div>
@@ -27,6 +51,7 @@
   </div>
 </div>
 </li>
+
 <br>
 <li>
 <div class="pub-row">
