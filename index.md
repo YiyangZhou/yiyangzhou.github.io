@@ -42,7 +42,7 @@ Currently, I am working as a multimodal researcher at <a href="https://damo.alib
 -  **[May. 2023 -- now]**  I'm an intern of  Prof. <a href="https://scholar.google.com.hk/citations?user=A20BZnQAAAAJ&hl=zh-CN&oi=ao" target="_blank"> Huaxiu Yao</a> from <a href="https://www.unc.edu/"  target="_blank">UNC</a>.
 
 ## Awards
-- **[First Prize.2023]** National Scholarship (rank 1/389)
+- **[First Prize.2023]** National Scholarship (rank 2/389)
 - **[First Prize.2023]** Outstanding Graduate Student Award
 - **[Second Prize.2022]** Xi’an Jiaotong University Postgraduate Academic Scholarship
 - **[First Prize.2019]** Jilin University Outstanding student of the School of Software
