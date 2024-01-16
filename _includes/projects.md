@@ -63,7 +63,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2310.00754.pdf">Analyzing and Mitigating Object Hallucination in Large Vision-Language Models</a></div>
     <div class="author"><strong>Yiyang Zhou</strong><sup>*</sup>, Chenhang Cui<sup>*</sup>, Jaehong Yoon, Linjun Zhang, Zhun Deng, Chelsea Finn, Mohit Bansal, Huaxiu Yao</div>
-    <div class="periodical"><em>International Conference on Learning Representations (ICLR) 2024.</em></div>
+    <div class="periodical"><em>International Conference on Learning Representations (ICLR) 2024 (the short version is presented in NeurIPS 2023 Instruction Workshop).</em></div>
     <div class="links">
     <a href="https://arxiv.org/abs/2310.00754" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://arxiv.org/pdf/2310.00754.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
