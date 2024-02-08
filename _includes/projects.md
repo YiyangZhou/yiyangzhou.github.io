@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications and Preprints</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications and Preprints</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -11,7 +11,6 @@
     <img src="assets/img/benchmark.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv</abbr>
   </div>
-
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2311.16101.pdf">How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs</a></div>
     <div class="author">Haoqin Tu<sup>*</sup>, Chenhang Cui<sup>*</sup>, Zijun Wang<sup>*</sup>, <strong>Yiyang Zhou</strong>, Bingchen Zhao, Junlin Han, Wangchunshu Zhou, Huaxiu Yao, Cihang Xie</div>
@@ -248,6 +247,7 @@ Multi-view Clustering</a></div>
 
 <br>
 
+<!--
 <li>
 <div class="pub-row">
 
@@ -269,9 +269,11 @@ Multi-view Clustering</a></div>
   </div>
 </div>
 </li>
+-->
 
 <br>
 
+<!--
 <li>
 <div class="pub-row">
 
@@ -293,6 +295,8 @@ Multi-view Clustering</a></div>
   </div>
 </div>
 </li>
+-->
+
 
 </ol>
 </div>
