@@ -8,6 +8,29 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/icml1.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Entropy-Driven Uncertainty Mitigation in Multi-View Representation Learning</div>
+    <div class="author">Wenbiao Yan, Minghong Wu, Jihua Zhu, Jinqian Chen, Qinghai Zheng, Mingchen Zhu, Chenhang Cui, <strong>Yiyang Zhou</strong></div>
+    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Feb. 2024.</em></div>
+    <div class="links">
+    <!-- <a href="https://arxiv.org/abs/2311.16101" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
+     <!-- <a href="https://arxiv.org/pdf/2311.16101.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
+    <!--  <a href="https://github.com/UCSC-VLAA/vllm-safety-benchmark" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a> -->
+<!--       <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> -->
+<!--       <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
+<!--       <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/benchmark.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv</abbr>
   </div>
