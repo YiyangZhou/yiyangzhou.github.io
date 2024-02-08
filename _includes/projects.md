@@ -14,7 +14,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Entropy-Driven Uncertainty Mitigation in Multi-View Representation Learning</div>
     <div class="author">Wenbiao Yan, Minghong Wu, Jihua Zhu, Jinqian Chen, Qinghai Zheng, Mingchen Zhu, Chenhang Cui, <strong>Yiyang Zhou</strong></div>
-    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Feb. 2024.</em></div>
+    <div class="periodical"><em>Submitting to ICML 2024 <strong>(arXiv)</strong>, Feb. 2024.</em></div>
     <div class="links">
     <!-- <a href="https://arxiv.org/abs/2311.16101" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
      <!-- <a href="https://arxiv.org/pdf/2311.16101.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
@@ -37,7 +37,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2311.16101.pdf">How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs</a></div>
     <div class="author">Haoqin Tu<sup>*</sup>, Chenhang Cui<sup>*</sup>, Zijun Wang<sup>*</sup>, <strong>Yiyang Zhou</strong>, Bingchen Zhao, Junlin Han, Wangchunshu Zhou, Huaxiu Yao, Cihang Xie</div>
-    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Nov. 2023.</em></div>
+    <div class="periodical"><em>Submitting to CVPR 2024 <strong>(arXiv)</strong>, Nov. 2023.</em></div>
     <div class="links">
     <a href="https://arxiv.org/abs/2311.16101" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://arxiv.org/pdf/2311.16101.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -61,7 +61,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2311.03287.pdf">Holistic Analysis of Hallucination in GPT-4V(ision): Bias and Interference Challenges</a></div>
     <div class="author">Chenhang Cui<sup>*</sup>, <strong>Yiyang Zhou</strong><sup>*</sup>, Xinyu Yang, Shirley Wu, Linjun Zhang, James Zou, Huaxiu Yao</div>
-    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Nov. 2023.</em></div>
+    <div class="periodical"><em>Submitting to ACL 2024 <strong>(arXiv)</strong>, Nov. 2023.</em></div>
     <div class="links">
     <a href="https://arxiv.org/abs/2311.03287" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://arxiv.org/pdf/2311.03287.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -110,7 +110,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2308.15126.pdf">Evaluation and Analysis of Hallucination in Large Vision-Language Models</a></div>
     <div class="author">Junyang Wang<sup>*</sup>, <strong>Yiyang Zhou</strong><sup>*</sup>, Guohai Xu, Pengcheng Shi, Chenlin Zhao, Haiyang Xu, Qinghao Ye, Ming Yan, Ji Zhang, Jihua Zhu, Jitao Sang, Haoyu Tang</div>
-    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Aug. 2023.</em></div>
+    <div class="periodical"><em>Submitting to ACL 2024 <strong>(arXiv)</strong>, Aug. 2023.</em></div>
     <div class="links">
     <a href="https://arxiv.org/abs/2308.15126" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://arxiv.org/pdf/2308.15126.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -135,7 +135,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2304.14178.pdf" target="_blank">mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality</a></div>
     <div class="author">Qinghao Ye<sup>*</sup>, Haiyang Xu<sup>*</sup>, Guohai Xu<sup>*</sup>, Jiabo Ye, Ming Yan, <strong>Yiyang Zhou</strong>, Junyang Wang, Anwen Hu, Pengcheng Shi, Yaya Shi, Chenliang Li, Yuanhong Xu, Hehong Chen, Junfeng Tian, Qian Qi, Ji Zhang, Fei Huang</div>
-    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Apr. 2023.</em></div>
+    <div class="periodical"><em>Submitting to CVPR 2024 <strong>(arXiv)</strong>, Apr. 2023.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2304.14178" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://arxiv.org/pdf/2304.14178.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -153,7 +153,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/kbs.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">kbs</abbr>
+    <abbr class="badge">KBS</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -178,12 +178,12 @@ Learning</a></div>
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/ijcai.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ijcai</abbr>
+    <abbr class="badge">IJCAI</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2305.09500.pdf" target="_blank">Contrastive Label Enhancement</a></div>
-    <div class="author">Yifei Wang , <strong>Yiyang Zhou</strong>, Jihua Zhu, Xinyuan Liu , Wenbiao Yan, Zhiqiang Tian</div>
+    <div class="author">Yifei Wang, <strong>Yiyang Zhou</strong>, Jihua Zhu, Xinyuan Liu, Wenbiao Yan, Zhiqiang Tian</div>
     <div class="periodical"><em>International Joint Conferences on Artificial Intelligence (IJCAI) 2023, May. 2023.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2305.09500" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
@@ -202,7 +202,7 @@ Learning</a></div>
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/eswa.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">eswa</abbr>
+    <abbr class="badge">ESWA</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -227,7 +227,7 @@ Multi-view Clustering</a></div>
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/kbs2.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">kbs</abbr>
+    <abbr class="badge">KBS</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -251,7 +251,7 @@ Multi-view Clustering</a></div>
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/ral.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ral</abbr>
+    <abbr class="badge">RAL</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
