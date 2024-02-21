@@ -3,6 +3,28 @@
 <div class="publications">
 <ol class="bibliography">
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/dpo.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2402.11411.pdf">Aligning Modalities in Vision Large Language Models via Preference Fine-tuning</a></div>
+    <div class="author"><strong>Yiyang Zhou</strong><sup>*</sup>, Chenhang Cui<sup>*</sup>, Rafael Rafailov, Chelsea Finn, Huaxiu Yao</div>
+    <div class="periodical"><em>Submitting to ICML 2024 <strong>(arXiv)</strong>, Feb. 2024.</em></div>
+    <div class="links">
+    <a href="https://arxiv.org/abs/2402.11411" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://arxiv.org/pdf/2402.11411.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/YiyangZhou/POVID" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+<!--       <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> -->
+<!--       <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
+<!--       <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
 
 <li>
 <div class="pub-row">
@@ -244,29 +266,6 @@ Multi-view Clustering</a></div>
 </div>
 </li>
   
-<br>
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/ral.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">RAL</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2305.09132.pdf" target="_blank">DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion</a></div>
-    <div class="author">Pengcheng Shi, Haozhe Cheng, Xu Han, <strong>Yiyang Zhou</strong>, Jihua Zhu</div>
-    <div class="periodical"><em>IEEE Robotics and Automation Letters, May. 2023.</em></div>
-    <div class="links">
-      <a href="https://arxiv.org/abs/2305.09132" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://arxiv.org/pdf/2305.09132.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-<!--       <a href="https://huggingface.co/spaces/MAGAer13/mPLUG-Owl" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Hugging Face</a> -->
-      <a href="https://github.com/spc121/DualGenerator" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-    </div>
-  </div>
-</div>
-</li>
 
 <br>
 
