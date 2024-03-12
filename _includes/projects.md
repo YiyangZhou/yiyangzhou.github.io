@@ -13,7 +13,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2402.11411.pdf">Aligning Modalities in Vision Large Language Models via Preference Fine-tuning</a></div>
     <div class="author"><strong>Yiyang Zhou</strong><sup>*</sup>, Chenhang Cui<sup>*</sup>, Rafael Rafailov, Chelsea Finn, Huaxiu Yao</div>
-    <div class="periodical"><em>Submitting to ICML 2024 <strong>(arXiv)</strong>, Feb. 2024.</em></div>
+    <div class="periodical"><em>Submitting to ICML 2024 <strong>(the short version is presented in ICLR 2024 R2-FM Workshop)</strong>, Feb. 2024.</em></div>
     <div class="links">
     <a href="https://arxiv.org/abs/2402.11411" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://arxiv.org/pdf/2402.11411.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -59,7 +59,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2311.16101.pdf">How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs</a></div>
     <div class="author">Haoqin Tu<sup>*</sup>, Chenhang Cui<sup>*</sup>, Zijun Wang<sup>*</sup>, <strong>Yiyang Zhou</strong>, Bingchen Zhao, Junlin Han, Wangchunshu Zhou, Huaxiu Yao, Cihang Xie</div>
-    <div class="periodical"><em>Submitting to CVPR 2024 <strong>(arXiv)</strong>, Nov. 2023.</em></div>
+    <div class="periodical"><em>Submitting to ECCV 2024 <strong>(arXiv)</strong>, Nov. 2023.</em></div>
     <div class="links">
     <a href="https://arxiv.org/abs/2311.16101" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://arxiv.org/pdf/2311.16101.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
