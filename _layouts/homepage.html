@@ -101,10 +101,15 @@
           <i class="fab fa-github"></i>
         </a>
         {% endif %}
-
+{% if site.instagram_link %}
+<a style="margin: 0 5px 0 0" href="{{ site.instagram_link }}" target="_blank">
+    <img src="assets/img/instagram.png" alt="Instagram" style="width: 20px; height: 20px;">
+</a>
+{% endif %}
+        
         {% if site.xiaohongshu_link %}
 <a style="margin: 0 5px 0 0" href="{{ site.xiaohongshu_link }}" target="_blank">
-    <img src="assets/img/xiaohongshu.png" alt="Xiaohongshu" style="width: 24px; height: 24px;">
+    <img src="assets/img/xiaohongshu.png" alt="Xiaohongshu" style="width: 20px; height: 20px;">
 </a>
 {% endif %}
 
