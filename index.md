@@ -15,7 +15,7 @@ I'm currently a CS Ph.D. student at UNC Chapel Hill, advised by <a href="https:/
 
 
 ## Research Interests
-- **Large Vision-language Models:**
+- **Large Vision-language Models**
 - **Robot Learning and Embodied AI**
 
 
