@@ -35,7 +35,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2406.06007">CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models</a></div>
-    <div class="author"><div class="author">
+    <div class="author">
     Peng Xia<sup>*</sup>, Ze Chen, Juanxi Tian, Yangrui Gong, Ruibo Hou, Yue Xu, Zhenbang Wu, Zhiyuan Fan, <strong>Yiyang Zhou</strong>, Kangyu Zhu, Wenhao Zheng, Zhaoyang Wang, Xiao Wang, Xuchao Zhang, Chetan Bansal, Marc Niethammer, Junzhou Huang, Hongtu Zhu, Yun Li, Jimeng Sun, Zongyuan Ge, Gang Li, James Zou, Huaxiu Yao
 </div>
     <div class="periodical"><em>NeurIPS 2024.</em></div>
