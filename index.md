@@ -10,6 +10,8 @@ Previously, I worked as a multimodal researcher at <a href="https://damo.alibaba
 
 Before I started my research, I worked on secondary market investments with <a href="https://www.ubs.com/sg/sc.html" target="_blank">UBS</a> Singapore.
 
+<a href="https://www.xiaohongshu.com/user/profile/63eae4ea00000000260045f6" target="_blank">小红书</a>
+
 
 
 ## Research Interests
