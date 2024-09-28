@@ -9,8 +9,11 @@ I'm currently a CS Ph.D. student at UNC Chapel Hill, advised by <a href="https:/
 ## Experiences
 
 **Microsoft** - Research Intern
+
 **The University of North Carolina at Chapel Hill** - Research Intern (2023-2024, Chapel Hill, US)
+
 **Alibaba DAMO Academy** - Research Intern (2023, Hangzhou, China)
+
 **UBS** - Investment Intern (2019-2022, Hong Kong, Singapore)
 
 
