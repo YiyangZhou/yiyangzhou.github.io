@@ -22,9 +22,11 @@ I'm currently a CS Ph.D. student at UNC Chapel Hill, advised by <a href="https:/
 
 **(2) The University of North Carolina at Chapel Hill** - Research Intern (2023-2024, Chapel Hill, US)
 
-**(3) Alibaba DAMO Academy** - Research Intern (2023, Hangzhou, China)
+**(3) Sun Yat-sen University** - Research Intern (2023, China)
 
-**(4) UBS** - Investment Intern (2019-2022, Hong Kong, Singapore)
+**(4) Alibaba DAMO Academy** - Research Intern (2023, Hangzhou, China)
+
+**(5) UBS** - Investment Intern (2019-2022, Hong Kong, Singapore)
 
 ## Awards
 - **[First Prize.2023]** National Scholarship (rank 2/389)
