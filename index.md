@@ -6,16 +6,6 @@ layout: homepage
 
 I'm currently a CS Ph.D. student at UNC Chapel Hill, advised by <a href="https://www.huaxiuyao.io/"  target="_blank">Prof. Huaxiu Yao</a>. Previously, I was a master's student majoring in Computer Science and Technology at <a href="https://www.xjtu.edu.cn/" target="_blank">Xi'an Jiaotong University</a>, conducting research under the guidance of Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=JcN97sQAAAAJ" target="_blank">Jihua Zhu</a>.
 
-## Experiences
-
-**(1) Microsoft** - Research Intern
-
-**(2) The University of North Carolina at Chapel Hill** - Research Intern (2023-2024, Chapel Hill, US)
-
-**(3) Alibaba DAMO Academy** - Research Intern (2023, Hangzhou, China)
-
-**(4) UBS** - Investment Intern (2019-2022, Hong Kong, Singapore)
-
 
 ## Research Interests
 - **Large Vision-language Models**
@@ -26,6 +16,15 @@ I'm currently a CS Ph.D. student at UNC Chapel Hill, advised by <a href="https:/
 
 {% include_relative _includes/projects.md %}
 
+## Experiences
+
+**(1) Microsoft** - Research Intern
+
+**(2) The University of North Carolina at Chapel Hill** - Research Intern (2023-2024, Chapel Hill, US)
+
+**(3) Alibaba DAMO Academy** - Research Intern (2023, Hangzhou, China)
+
+**(4) UBS** - Investment Intern (2019-2022, Hong Kong, Singapore)
 
 ## Awards
 - **[First Prize.2023]** National Scholarship (rank 2/389)
