@@ -38,7 +38,7 @@ I'm currently a CS Ph.D. student at UNC Chapel Hill, advised by <a href="https:/
 - **[Third Prize.2019]** Jilin University ”Internet+” Student Innovation and Entrepreneurship Competition
 
 ## Other Fields
-Chinese whale, Trader, Poker, Hotel Management
+Chinese whale, Trader, Amateur Poker, Hotel Management
 
 
 
