@@ -62,7 +62,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2402.11411.pdf">Aligning Modalities in Vision Large Language Models via Preference Fine-tuning</a></div>
     <div class="author"><strong>Yiyang Zhou</strong><sup>*</sup>, Chenhang Cui<sup>*</sup>, Rafael Rafailov, Chelsea Finn, Huaxiu Yao</div>
-    <div class="periodical"><em>Arxiv (the short version is presented in ICLR 2024 R2-FM Workshop), 2024.</em></div>
+    <div class="periodical"><em>Arxiv 2024 (the short version is presented in ICLR 2024 R2-FM Workshop).</em></div>
     <div class="links">
     <a href="https://arxiv.org/abs/2402.11411" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://arxiv.org/pdf/2402.11411.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -136,7 +136,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2304.14178.pdf" target="_blank">mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality</a></div>
     <div class="author">Qinghao Ye<sup>*</sup>, Haiyang Xu<sup>*</sup>, Guohai Xu<sup>*</sup>, Jiabo Ye, Ming Yan, <strong>Yiyang Zhou</strong>, Junyang Wang, Anwen Hu, Pengcheng Shi, Yaya Shi, Chenliang Li, Yuanhong Xu, Hehong Chen, Junfeng Tian, Qian Qi, Ji Zhang, Fei Huang</div>
-    <div class="periodical"><em>Arxiv, 2023.</em></div>
+    <div class="periodical"><em>Arxiv 2023.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2304.14178" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://arxiv.org/pdf/2304.14178.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
