@@ -11,7 +11,7 @@
     <abbr class="badge">NeurIPS</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2405.14622">Aligning Modalities in Vision Large Language Models via Preference Fine-tuning</a></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2405.14622">Calibrated Self-Rewarding Vision Language Models</a></div>
     <div class="author"><strong>Yiyang Zhou</strong><sup>*</sup>, Zhiyuan Fan<sup>*</sup>, Dongjie Cheng<sup>*</sup>, Sihan Yang, Zhaorun Chen, Chenhang Cui, Xiyao Wang, Yun Li, Linjun Zhang, Huaxiu Yao</div>
     <div class="periodical"><em>NeurIPS 2024 (the short version is presented in ICML 2024 Workshop on Foundation Models in the Wild).</em></div>
     <div class="links">
