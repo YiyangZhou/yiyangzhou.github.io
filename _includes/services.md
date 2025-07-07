@@ -4,9 +4,9 @@
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://iclr.cc/"><autocolor>International Conference on Learning Representations (ICLR) 2025</autocolor></a></li>
-  <li><a href="https://neurips.cc/"><autocolor>Conference and Workshop on Neural Information Processing Systems (NeurIPS) 2023, 2024</autocolor></a></li>
-  <li><a href="https://2024.emnlp.org/"><autocolor>Conference on Empirical Methods in Natural Language Processing (EMNLP) 2023, 2024</autocolor></a></li>
-  <li><a href="https://icml.cc/"><autocolor>International Conference on Machine Learning (ICML) 2024</autocolor></a></li>
+  <li><a href="https://neurips.cc/"><autocolor>Conference and Workshop on Neural Information Processing Systems (NeurIPS) 2023 - 2025</autocolor></a></li>
+  <li><a href="https://2024.emnlp.org/"><autocolor>Conference on Empirical Methods in Natural Language Processing (EMNLP) 2023 - 2025</autocolor></a></li>
+  <li><a href="https://icml.cc/"><autocolor>International Conference on Machine Learning (ICML) 2024, 2025</autocolor></a></li>
   <li><a href="https://colmweb.org/"><autocolor>Conference on Language Modeling (COLM) 2024</autocolor></a></li>
   <li><a href="https://2024.acmmm.org/"><autocolor>ACM International Conference on Multimedia (ACM MM) 2023, 2024</autocolor></a></li>
   <li><a href="https://aaai.org/aaai-conference/"><autocolor>Conference on Artificial Intelligence (AAAI) 2024</autocolor></a></li>
