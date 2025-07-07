@@ -40,7 +40,7 @@ I'm currently a CS Ph.D. student at UNC Chapel Hill, advised by <a href="https:/
 - **[Third Prize.2019]** Jilin University ”Internet+” Student Innovation and Entrepreneurship Competition
 
 ## Other Fields
-Web3 (Top 30 OFFICIAL TRUMP MEME Holder), Chinese whale, Trader, Amateur Poker, Hotel Management (碧桂园-Country Garden, 亚朵-Atour Hotel, 汉庭-Hanting Hotel)
+Web3 (Top 30 OFFICIAL TRUMP MEME Holder), Chinese whale, Trader, Amateur Poker, Hotel Management (碧桂园-Country Garden 长沙, 亚朵-Atour Hotel 成都, 汉庭-Hanting Hotel 成都)
 
 
 
