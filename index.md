@@ -18,17 +18,19 @@ I'm currently a CS Ph.D. student at UNC Chapel Hill, advised by <a href="https:/
 
 ## Experiences
 
-**(1) ByteDance Seed** - Research Intern (2025, San Jose, US)
+**(1) NVIDIA** - Research Intern (2026, Santa Clara, US)
 
-**(2) Microsoft** - Research Intern
+**(2) ByteDance Seed** - Research Intern (2025, San Jose, US)
 
-**(3) The University of North Carolina at Chapel Hill** - Research Intern (2023-2024, Chapel Hill, US)
+**(3) Microsoft** - Research Intern
 
-**(4) Sun Yat-sen University** - Research Intern (2023, China)
+**(4) The University of North Carolina at Chapel Hill** - Research Intern (2023-2024, Chapel Hill, US)
 
-**(5) Alibaba DAMO Academy** - Research Intern (2023, Hangzhou, China)
+**(5) Sun Yat-sen University** - Research Intern (2023, China)
 
-**(6) UBS** - Investment Intern (2019-2022, Hong Kong, Singapore)
+**(6) Alibaba DAMO Academy** - Research Intern (2023, Hangzhou, China)
+
+**(7) UBS** - Investment Intern (2019-2022, Hong Kong, Singapore)
 
 ## Awards
 - **[First Prize.2023]** National Scholarship (rank 2/389)
